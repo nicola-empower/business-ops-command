@@ -1,7 +1,7 @@
 # OpsCommand: The Operating System for Modern Business
 
-![OpsCommand Dashboard](<img width="2822" height="1533" alt="image" src="https://github.com/user-attachments/assets/cf07700a-8aff-4fdb-ae43-31e6e80d33b1" />
-)
+OpsCommand Dashboard <img width="2822" height="1533" alt="image" src="https://github.com/user-attachments/assets/cf07700a-8aff-4fdb-ae43-31e6e80d33b1" />
+
 
 **OpsCommand** is a next-generation business operations dashboard designed to provide real-time visibility, automated workflow management, and intelligent resource planning. Built for the modern enterprise in 2026, it unifies fragmented data into a single, cohesive "Command Center."
 
